@@ -1,2 +1,2 @@
 # testmint01
-first tst of candymanchine
+first test of candymachine
